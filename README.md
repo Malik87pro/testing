@@ -1,2 +1,2 @@
 # testing
-This is just a testing repository for github testing
+This is just a testing repository for GitHub testing
